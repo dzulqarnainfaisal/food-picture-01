@@ -1,11 +1,11 @@
-# Saroka Food Picture — make.fun food-picture-01
+# Saroka Food Picture v2 — make.fun food-picture-01
 
-One picture of food: a pan-seared salmon fillet with herb butter, charred lemon, and roasted baby potatoes, editorial food photography style.
+Spicy miso ramen: a tall glossy noodle pull lifted by wooden chopsticks, rich reddish-brown miso broth with a chili-oil swirl, caramelized chashu, and a halved ajitama egg with a glossy runny orange yolk dripping into the broth. Editorial food photography style, warm directional light, dark moody background.
 
 ## Entry
 
 - `main.ts` — Node 22, standard library only. Copies `entry.jpg` to `/output/entry.png`.
-- `entry.jpg` — the picture: 1024x1024 JPEG, 252,366 bytes (under the 1 MiB cap).
+- `entry.jpg` — the picture: 1024x1024 JPEG, 215,468 bytes (under the 1 MiB cap).
 - `LICENSE` — MIT.
 
 ## How it is made
