@@ -1,4 +1,4 @@
-# Saroka Food Picture v2 — make.fun food-picture-01
+# Saroka Food Picture v3
 
 Spicy miso ramen: a tall glossy noodle pull lifted by wooden chopsticks, rich reddish-brown miso broth with a chili-oil swirl, caramelized chashu, and a halved ajitama egg with a glossy runny orange yolk dripping into the broth. Editorial food photography style, warm directional light, dark moody background.
 
